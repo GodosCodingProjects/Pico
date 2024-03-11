@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "usb_descriptors.h": "c",
+        "tusb.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "types.h": "c",
+        "board.h": "c",
+        "charconv": "c",
+        "xlocnum": "c",
+        "cstdio": "c",
+        "stdio.h": "c",
+        "pio.h": "c"
+    }
+}

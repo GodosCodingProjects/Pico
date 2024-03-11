@@ -1,0 +1,3 @@
+C:/Users/God/Desktop/kibo/Pico/pico-projects/test_leds/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/God/Desktop/kibo/Pico/pico-projects/test_leds/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/God/Desktop/kibo/Pico/pico-projects/test_leds/build/pioasm/CMakeFiles/rebuild_cache.dir
